@@ -1,2 +1,2 @@
 # wildan_capital
-website resmi wildan capital
+Website resmi wildan capital
